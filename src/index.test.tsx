@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { ReactWebMultiSteps } from '.'
 
 describe('ExampleComponent', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(ReactWebMultiSteps).toBeTruthy()
   })
 })

@@ -1,6 +1,6 @@
 {
   "name": "react-web-multisteps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This component aimed to enable navigating from it&#x27;s child component using multi step approach which will help in creating multi step forms, viewing item by item etc...",
   "author": "samassango",
   "license": "MIT",
